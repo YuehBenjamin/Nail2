@@ -3,8 +3,8 @@
 //  Nail2
 //
 //  Created by user29 on 2025/8/1.
-//
 
+//釘子模型
 import SwiftUI
 
 struct FenceNail: Identifiable {

@@ -3,8 +3,8 @@
 //  Nail2
 //
 //  Created by user29 on 2025/8/1.
-//
 
+//主畫面
 import SwiftUI
 
 struct ContentView: View {

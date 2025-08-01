@@ -3,8 +3,8 @@
 //  Nail2
 //
 //  Created by user29 on 2025/8/1.
-//
 
+//歷史紀錄
 import SwiftUI
 
 struct LogListView: View {
