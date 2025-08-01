@@ -21,7 +21,7 @@ struct ContentView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 20) {
-                    Text("情緒籬笆")
+                    Text("Emotional Fence")
                         .font(.largeTitle)
                         .padding(.top)
 
